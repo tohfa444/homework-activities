@@ -1,0 +1,13 @@
+print("hello I'm tohfa and I want know your birthday dates")
+print("roy")
+roy=input("enter your birthday date ")
+print("simthiya")
+simthiya=input("enter your birthday date ")
+print("anisa")
+anisa=input("enter your birthday date ")
+print("sharuk")
+sharuk=input("enter your birthday date ")
+print("nithi")
+nithi=input("enter your birthday date ")
+print("i collected my friend's birthday dates \n roy's birthday date is ",roy, "\n simthiya's birthday date is ",simthiya," \n anisa's birthday date is ",anisa,"\n sharuk's birthday date is ",sharuk," \n nithi's birthday date is ",nithi)
+
