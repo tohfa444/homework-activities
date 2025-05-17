@@ -6,3 +6,4 @@ elif tem<10:
     print("You don't have to wear heavy jackets but wear a few hot clothes")
 else:
     print("You sould wear light and soft clothes in this weather")
+    
