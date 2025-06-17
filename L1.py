@@ -5,6 +5,7 @@ for i in list_1:
     squar_list.append(i**2)
 for j in squar_list:
     if j%2==0:
-        print(f"{j} which is square of ",math. sqrt(j)," is en even number")
+        print(math.sqrt(j)," which is the square root  of ",{j}," is en even number")
     else:
-        print(f"{j} which is square of ",math. sqrt(j)," is en odd number")
+        print(math.sqrt(j)," which is the square root of ",{j}," is en odd number")
+
