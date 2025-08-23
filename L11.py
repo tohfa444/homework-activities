@@ -8,3 +8,4 @@ if age>10 and age<20:
         print("You are selected and you are gonna be in group B")
 else:
     print("You are rejected")
+    
