@@ -7,3 +7,4 @@ if len(Character)==1:
         print("This is not an alphabetical letter")
 else:
     print("Please enter a singel character")
+    

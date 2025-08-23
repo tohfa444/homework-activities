@@ -7,3 +7,4 @@ elif tem<10:
 else:
     print("You sould wear light and soft clothes in this weather")
     
+    

@@ -8,4 +8,3 @@ for j in squar_list:
         print(math.sqrt(j)," which is the square root  of ",{j}," is en even number")
     else:
         print(math.sqrt(j)," which is the square root of ",{j}," is en odd number")
-
