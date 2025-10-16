@@ -13,7 +13,7 @@ pygame.display.set_caption("Rectangle and Text Example")
 
 # Colors
 white = (255, 255, 255)
-blue = (0, 0, 255)
+blue = (34, 255, 200)
 black = (0, 0, 0)
 
 # Font for text
