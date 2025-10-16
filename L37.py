@@ -15,3 +15,4 @@ tan_value = math.tan(angle_rad)
 print(f"Sine({angle_deg}°) = {sin_value}")
 print(f"Cosine({angle_deg}°) = {cos_value}")
 print(f"Tangent({angle_deg}°) = {tan_value}")
+
